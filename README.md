@@ -17,7 +17,7 @@
 | Competition Format | Jeopardy-Style CTF |
 | Competition Date | [13-November-2026] |
 | Team Score | [2110] |
-| Final Team Rank | [40] |
+| Final Team Rank | [34] |
 | Total Participating Teams | [562] |
 | Team Members | 4 |
 
