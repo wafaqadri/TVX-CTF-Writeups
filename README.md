@@ -27,10 +27,10 @@
 
 | Team Member | Individual Score |
 |---|---:|
-| [holocynth] | [510] |
-| [skychaser] | [350] |
-| [aelitorse] | [650] |
-| [z3r0grav1ty] | [600] |
+| [holocynth](github.com/holocynth) | [510] |
+| [skychaser](github.com/skychaser) | [350] |
+| [aelitorse](https://github.com/AERAFROUF) | [650] |
+| [z3r0grav1ty](github.com/z3r0grav1ty) | [600] |
 | **Team Score** | **[2110]** |
 
 ---
