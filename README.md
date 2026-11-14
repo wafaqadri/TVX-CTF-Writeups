@@ -67,13 +67,11 @@ CTF-Writeups/
 │   └── Ask-Me.md
 │
 ├── REVERSE-NETHER/
-│   │
 │   ├── ENDING.md
 │   ├── twist-me-a-twister.md
 │   └── steel-and-feathers.md
 │
 ├── MALWARE-LAB/
-│   │
 │   ├── MalwareX.md
 │   ├── MalwareX-2.md
 │   ├── MalwareX-3.md
@@ -81,30 +79,25 @@ CTF-Writeups/
 │   └── MalwareX-5.md
 │
 ├── DFIR-MINES/
-│   │
 │   ├── tracevx.md
 │   ├── The-Browser-Never-Forgot.md
-│   ├── Ghost-in-the-Envars.md
+│   └── Ghost-in-the-Envars.md
 │
 ├── CLOUD-PEAKS/
-│   │
 │   ├── Mission-Broken-Trust.md
 │   ├── The-Forgotten-Tenant.md
 │   └── The-Forgotten-Tenant-2.md
 │
 ├── CRYPTO-DESERT/
-│   │
 │   ├── the-fourth-portal.md
 │   ├── ender-chest.md
 │   ├── Unsorted-Inventory.md
 │   ├── Steves-Lost-Book.md
 │   └── Creepers-Shared-Prime.md
+│
 └── WELCOME/
-    ├── Welcome.md
-
+    └── Welcome.md
 ```
-
----
 
 # 🎯 CHALLENGE INDEX
 
@@ -112,60 +105,60 @@ CTF-Writeups/
 
 | Challenge | Points | Writeup |
 |---|---:|---|
-| Digital Currencies | 100 | [View](OSINT/Digital-Currencies/writeup.md) |
-| Ask Me | 100 | [View](OSINT/Ask-Me/writeup.md) |
+| Digital Currencies | 100 | [View](OSINT/Digital-Currencies.md) |
+| Ask Me | 100 | [View](OSINT/Ask-Me.md) |
 
 ## 🔄 REVERSE NETHER
 
 | Challenge | Points | Writeup |
 |---|---:|---|
-| Ending | 100 | [View](Reverse-Engineering/Ending/writeup.md) |
-| Twist me a twister | 100 | [View](Reverse-Engineering/Twist-me-a-twister/writeup.md) |
-| Summer is over | 100 | [View](Reverse-Engineering/Summer-is-over/writeup.md) |
-| Steel and feathers | 100 | [View](Reverse-Engineering/Steel-and-feathers/writeup.md) |
+| Ending | 100 | [View](REVERSE-NETHER/ENDING.md) |
+| Twist me a twister | 100 | [View](REVERSE-NETHER/twist-me-a-twister.md) |
+| Summer is over | 100 | *File not in repository* |
+| Steel and feathers | 100 | [View](REVERSE-NETHER/steel-and-feathers.md) |
 
 ## 🦠 MALWARE LAB
 
 | Challenge | Points | Writeup |
 |---|---:|---|
-| MalwareX | 50 | [View](Malware/MalwareX/writeup.md) |
-| MalwareX - 2 | 50 | [View](Malware/MalwareX-2/writeup.md) |
-| MalwareX - 3 | 10 | [View](Malware/MalwareX-3/writeup.md) |
-| MalwareX - 4 | 50 | [View](Malware/MalwareX-4/writeup.md) |
-| MalwareX - 5 | 50 | [View](Malware/MalwareX-5/writeup.md) |
+| MalwareX | 50 | [View](MALWARE-LAB/MalwareX.md) |
+| MalwareX - 2 | 50 | [View](MALWARE-LAB/MalwareX-2.md) |
+| MalwareX - 3 | 10 | [View](MALWARE-LAB/MalwareX-3.md) |
+| MalwareX - 4 | 50 | [View](MALWARE-LAB/MalwareX-4.md) |
+| MalwareX - 5 | 50 | [View](MALWARE-LAB/MalwareX-5.md) |
 
 ## 🔬 Digital Forensics & Incident Response (DFIR)
 
 | Challenge | Points | Writeup |
 |---|---:|---|
-| tracevx | 100 | [View](DFIR/tracevx/writeup.md) |
-| The Browser Never Forgot | 100 | [View](DFIR/The-Browser-Never-Forgot/writeup.md) |
-| Ghost in the Envars | 100 | [View](DFIR/Ghost-in-the-Envars/writeup.md) |
-| GhostNote | 100 | [View](DFIR/GhostNote/writeup.md) |
+| tracevx | 100 | [View](DFIR-MINES/tracevx.md) |
+| The Browser Never Forgot | 100 | [View](DFIR-MINES/The-Browser-Never-Forgot.md) |
+| Ghost in the Envars | 100 | [View](DFIR-MINES/Ghost-in-the-Envars.md) |
+| GhostNote | 100 | *File not in repository* |
 
 ## ☁️ CLOUD PEAKS
 
 | Challenge | Points | Writeup |
 |---|---:|---|
-| Mission: Broken Trust | 100 | [View](Cloud/Mission-Broken-Trust/writeup.md) |
-| The Forgotten Tenant | 50 | [View](Cloud/The-Forgotten-Tenant/writeup.md) |
-| The Forgotten Tenant - 2 | 100 | [View](Cloud/The-Forgotten-Tenant-2/writeup.md) |
+| Mission: Broken Trust | 100 | [View](CLOUD-PEAKS/Mission-Broken-Trust.md) |
+| The Forgotten Tenant | 50 | [View](CLOUD-PEAKS/The-Forgotten-Tenant.md) |
+| The Forgotten Tenant - 2 | 100 | [View](CLOUD-PEAKS/The-Forgotten-Tenant-2.md) |
 
 ## 🔐 CRYPTO DESERT
 
 | Challenge | Points | Writeup |
 |---|---:|---|
-| the fourth portal | 100 | [View](Crypto/the-fourth-portal/writeup.md) |
-| ender chest | 100 | [View](Crypto/ender-chest/writeup.md) |
-| Unsorted Inventory | 100 | [View](Crypto/Unsorted-Inventory/writeup.md) |
-| Steve's Lost Book | 100 | [View](Crypto/Steves-Lost-Book/writeup.md) |
-| Creeper's Shared Prime | 100 | [View](Crypto/Creepers-Shared-Prime/writeup.md) |
+| the fourth portal | 100 | [View](CRYPTO-DESERT/the-fourth-portal.md) |
+| ender chest | 100 | [View](CRYPTO-DESERT/ender-chest.md) |
+| Unsorted Inventory | 100 | [View](CRYPTO-DESERT/Unsorted-Inventory.md) |
+| Steve's Lost Book | 100 | [View](CRYPTO-DESERT/Steves-Lost-Book.md) |
+| Creeper's Shared Prime | 100 | [View](CRYPTO-DESERT/Creepers-Shared-Prime.md) |
 
 ## 👋 WELCOME
 
 | Challenge | Points | Writeup |
 |---|---:|---|
-| Welcome | 50 | [View](Welcome/Welcome/writeup.md) |
+| Welcome | 50 | [View](WELCOME/Welcome.md) |
 
 ---
 
@@ -181,8 +174,6 @@ Tools explored during the competition include:
 - Digital Forensics Tools
 - Static Analysis Tools
 - OSINT Resources
-
----
 
 # 🤝 COLLABORATION & CONTRIBUTIONS
 
@@ -206,7 +197,6 @@ Each member is encouraged to:
 5. Open a Pull Request for review.
 6. Merge the contribution into the main branch.
 
----
 
 # 📚 LEARNING OUTCOMES
 
