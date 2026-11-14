@@ -63,97 +63,45 @@ CTF-Writeups/
 ├── README.md
 │
 ├── OSINT/
-│   ├── README.md
-│   │
-│   ├── Digital-Currencies/
-│   │   └── writeup.md
-│   │
-│   └── Ask-Me/
-│       └── writeup.md
+│   ├── Digital-Currencies.md
+│   └── Ask-Me.md
 │
 ├── REVERSE-NETHER/
-│   ├── README.md
 │   │
-│   ├── Ending/
-│   │   └── writeup.md
-│   │
-│   ├── Twist-me-a-twister/
-│   │   └── writeup.md
-│   │
-│   ├── Summer-is-over/
-│   │   └── writeup.md
-│   │
-│   └── Steel-and-feathers/
-│       └── writeup.md
+│   ├── ENDING.md
+│   ├── twist-me-a-twister.md
+│   └── steel-and-feathers.md
 │
 ├── MALWARE-LAB/
-│   ├── README.md
 │   │
-│   ├── MalwareX/
-│   │   └── writeup.md
-│   │
-│   ├── MalwareX-2/
-│   │   └── writeup.md
-│   │
-│   ├── MalwareX-3/
-│   │   └── writeup.md
-│   │
-│   ├── MalwareX-4/
-│   │   └── writeup.md
-│   │
-│   └── MalwareX-5/
-│       └── writeup.md
+│   ├── MalwareX.md
+│   ├── MalwareX-2.md
+│   ├── MalwareX-3.md
+│   ├── MalwareX-4.md
+│   └── MalwareX-5.md
 │
 ├── DFIR-MINES/
-│   ├── README.md
 │   │
-│   ├── tracevx/
-│   │   └── writeup.md
-│   │
-│   ├── The-Browser-Never-Forgot/
-│   │   └── writeup.md
-│   │
-│   ├── Ghost-in-the-Envars/
-│   │   └── writeup.md
-│   │
-│   └── GhostNote/
-│       └── writeup.md
+│   ├── tracevx.md
+│   ├── The-Browser-Never-Forgot.md
+│   ├── Ghost-in-the-Envars.md
 │
 ├── CLOUD-PEAKS/
-│   ├── README.md
 │   │
-│   ├── Mission-Broken-Trust/
-│   │   └── writeup.md
-│   │
-│   ├── The-Forgotten-Tenant/
-│   │   └── writeup.md
-│   │
-│   └── The-Forgotten-Tenant-2/
-│       └── writeup.md
+│   ├── Mission-Broken-Trust.md
+│   ├── The-Forgotten-Tenant.md
+│   └── The-Forgotten-Tenant-2.md
 │
 ├── CRYPTO-DESERT/
-│   ├── README.md
 │   │
-│   ├── the-fourth-portal/
-│   │   └── writeup.md
-│   │
-│   ├── ender-chest/
-│   │   └── writeup.md
-│   │
-│   ├── Unsorted-Inventory/
-│   │   └── writeup.md
-│   │
-│   ├── Steves-Lost-Book/
-│   │   └── writeup.md
-│   │
-│   └── Creepers-Shared-Prime/
-│       └── writeup.md
-│
+│   ├── the-fourth-portal.md
+│   ├── ender-chest.md
+│   ├── Unsorted-Inventory.md
+│   ├── Steves-Lost-Book.md
+│   └── Creepers-Shared-Prime.md
 └── WELCOME/
-    ├── README.md
-    │
-    └── Welcome/
-        └── writeup.md
+    ├── Welcome.md
+
 ```
 
 ---
